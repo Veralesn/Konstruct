@@ -1,4 +1,6 @@
 Лендинг  
 Пример работы верстки  
 Адаптип од все устройства  
-HTML и CSS 
+HTML и CSS  
+<code>[WD_portfolio_2](https://veralesn.github.io/Konstruct_portfolio_3/)
+</code>
